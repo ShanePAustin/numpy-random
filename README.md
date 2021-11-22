@@ -18,10 +18,10 @@ How to Use:
 
 Applications used for completion of the tasks are The Jupyter Notebook and cmder
 
-Install Python - This was developed using [Anaconda](https://www.anaconda.com/products/individual)
-Download or clone current repository "numpy-random"
-Refer to the Modules used section and import as required
-Ensure NumPy is running ver. 1.21
-Install [Jupyter](https://jupyter.org/)
-Run in Jupyter notebook
-Open and Run "numpy-random.ipynb"
+* Install Python - This was developed using [Anaconda](https://www.anaconda.com/products/individual)
+* Download or clone current repository "numpy-random"
+* Refer to the Modules used section and import as required
+* Ensure NumPy is running ver. 1.21
+* Install [Jupyter](https://jupyter.org/)
+* Run in Jupyter notebook
+* Open and Run "numpy-random.ipynb"
